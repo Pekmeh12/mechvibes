@@ -3,7 +3,7 @@
   "name": "Explosion",
   "key_define_type": "single",
   "includes_numpad": false,
-  "sound": "oreo.ogg",
+  "sound": "oreo.mp3",
   "defines": {
     "1": [
       971,
